@@ -1,0 +1,7 @@
+# JetBrains
+*.iml
+.idea/
+
+# Deployd
+.dpd/
+data/
