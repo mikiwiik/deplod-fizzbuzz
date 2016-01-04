@@ -1,0 +1,21 @@
+{
+  "type": "Collection",
+  "properties": {
+    "number": {
+      "name": "number",
+      "type": "string",
+      "typeLabel": "string",
+      "required": true,
+      "id": "number",
+      "order": 0
+    },
+    "fizzbuzz": {
+      "name": "fizzbuzz",
+      "type": "string",
+      "typeLabel": "string",
+      "required": false,
+      "id": "fizzbuzz",
+      "order": 1
+    }
+  }
+}
